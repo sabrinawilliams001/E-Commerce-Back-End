@@ -1,0 +1,14 @@
+[{
+    "product_name":"t-shirt",
+    "price":100,
+    "category_id":1
+
+},
+{
+    "product_name":"headphones",
+    "price":500,
+    "category_id":2
+
+}
+
+]
